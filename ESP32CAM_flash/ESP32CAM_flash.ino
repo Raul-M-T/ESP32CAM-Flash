@@ -8,7 +8,11 @@
 //cada 500 ms.
 
 //Definición de pines
+<<<<<<< HEAD
+#define LAMP 5 //Se selecciona 
+=======
 #define LAMP 4 //Se selecciona el pin donde se encuentra el led flash
+>>>>>>> 8d1a9c192865b71278bd986256aab84a0cdb18c9
 
 //Inicialización del programa
 void setup() //Estructura principal
